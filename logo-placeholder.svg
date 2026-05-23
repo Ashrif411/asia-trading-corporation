@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="160" viewBox="0 0 520 160" role="img" aria-labelledby="title desc">
+  <title id="title">Asia Trading Corporation placeholder logo</title>
+  <desc id="desc">Editable placeholder logo for Asia Trading Corporation.</desc>
+  <rect width="520" height="160" rx="28" fill="#0b1f3a"/>
+  <circle cx="78" cy="80" r="42" fill="#d6b25e" opacity="0.95"/>
+  <path d="M78 42l38 76H98l-7-15H65l-7 15H40l38-76zm0 30l-8 18h16l-8-18z" fill="#fff"/>
+  <text x="145" y="73" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Asia Trading</text>
+  <text x="145" y="108" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#d6b25e">Corporation</text>
+</svg>
